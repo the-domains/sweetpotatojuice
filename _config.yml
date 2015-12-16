@@ -1,0 +1,28 @@
+name: SweetPotatoJuice
+favicon: null
+layout_spectrum: 0.6298185149207711
+typography_spectrum: 0.6700337482616305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6097873647231609
+  lightness: 0.8244414788205177
+  saturation: 0.022773526376113296
+  rhythmicContrast: 0.23507363442331553
+purpose: []
